@@ -1,1 +1,1 @@
-# Python-Terminal-Projects
+# Python-Projects
