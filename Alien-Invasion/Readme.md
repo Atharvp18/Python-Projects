@@ -1,4 +1,4 @@
-<b>Alien Invasion</b><br><br>
+<b>Alien Invasion</b><br><br> 
 
 I have developed this Game with reference to Eric Matthes Python Crash Course.<br>
 The Game however has been further updated by me.<br>Below mentioned are some of the added features :-<br><pre>
