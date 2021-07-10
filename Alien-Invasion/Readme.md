@@ -1,10 +1,12 @@
-Alien Invasion
-Hello User,
-I have developed this Game with reference to Eric Matthes Python Crash Course.
-The Game however has been updated.
-Below mentioned are some of the added features :-
+<b>Alien Invasion</b><br><br>
 
-The Ship moves in all directions (up, down, left, right).
-Sound effects have been added to make the game more interesting.
-Vibrancy of colours to attract user's attention.
+I have developed this Game with reference to Eric Matthes Python Crash Course.<br>
+The Game however has been further updated by me.Below mentioned are some of the added features :-<br>
+1.The Ship moves in all directions (W,S,A,D).<br>
+2.Sound effects have been added to make the game more interesting.<br>
+3.Added a background to make the game look better.<Br><br>
 Below is how the game looks:
+![Screenshot (344)](https://user-images.githubusercontent.com/71587540/125155451-07011e80-e171-11eb-93f3-04b6cfa0b633.png)
+<br>
+![Screenshot (341)](https://user-images.githubusercontent.com/71587540/125155461-1718fe00-e171-11eb-914e-a7f038bb4ef9.png)
+
